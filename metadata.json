@@ -1,0 +1,6 @@
+{
+  "name": "Moodwave — Mood Regulation Video Sessions",
+  "description": "Pre-recorded mood regulation video sessions containing all the essentials to help you restore emotional balance in just a few sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
